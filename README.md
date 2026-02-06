@@ -1,7 +1,3 @@
-Voici une **consigne globale** qui sert d’introduction et renvoie vers les deux exercices détaillés.
-
----
-
 # Consigne — Kubernetes : prise en main et déploiement applicatif
 
 Dans cette série d’exercices, vous allez découvrir Kubernetes de manière progressive, en partant des concepts fondamentaux jusqu’au déploiement complet d’une application avec base de données.
