@@ -16,7 +16,7 @@ Chaque exercice dispose de sa **consigne détaillée** à suivre pas à pas.
 Objectif :
 Découvrir Kubernetes à travers la manipulation de Pods et de Deployments, comprendre leur rôle et observer leur comportement (cycle de vie, labels, rescheduling, accès via port-forward).
 
-👉 Consigne détaillée : **`k8s_1.md`**
+[Consigne détaillée](/k8s_1.md)
 
 ---
 
@@ -30,7 +30,7 @@ Déployer progressivement une application complète en mettant en évidence :
 * l’utilisation des PVC, Secrets et Services,
 * l’exposition d’une application via un Ingress NGINX.
 
-👉 Consigne détaillée : **`k8s_2.md`**
+[Consigne détaillée](/k8s_2.md)
 
 ---
 
